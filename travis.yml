@@ -5,4 +5,4 @@ before_install:
   - pip install requests
   - pip install pytest
 script:
-  - pytest DuckDuckGo.py
+  - pytest test_retirement_age.py
